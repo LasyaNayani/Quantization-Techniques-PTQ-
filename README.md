@@ -1,1 +1,1 @@
-# Quantization-Techniques---PTQ-
+# Quantization-Techniques-PTQ-
